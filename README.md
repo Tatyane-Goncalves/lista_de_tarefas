@@ -6,16 +6,16 @@
 Uma aplicação web de gestão de tarefas, desenvolvida com **React + TypeScript + TailwindCSS**, consumindo uma API REST. Organize, acompanhe e conclua suas tarefas de forma simples, rápida e eficiente.
 
 ## 🎯 Funcionalidades
-✅ Criar tarefas
-✅ Editar tarefas
-✅ Excluir tarefas
-✅ Visualizar lista de tarefas
-✅ Filtrar por dia, semana, mês e ano
-✅ Status das tarefas (Pendente, Em andamento, Concluída)
-✅ Status de prazo (No prazo, Atrasado)
-✅ Links relacionados nas tarefas (opcional)
-✅ Detalhes completos da tarefa
-✅ Responsivo (Mobile, Tablet e Desktop)
+✅ Criar tarefas <br>
+✅ Editar tarefas <br>
+✅ Excluir tarefas <br>
+✅ Visualizar lista de tarefas <br>
+✅ Filtrar por dia, semana, mês e ano <br>
+✅ Status das tarefas (Pendente, Em andamento, Concluída) <br>
+✅ Status de prazo (No prazo, Atrasado) <br>
+✅ Links relacionados nas tarefas (opcional) <br>
+✅ Detalhes completos da tarefa <br>
+✅ Responsivo (Mobile, Tablet e Desktop) <br>
 
 ## 🖥️ Tecnologias e Ferramentas
 - ⚛️ React + Vite
@@ -83,11 +83,11 @@ src/
 ```
 
 ## 🏗️ Melhorias Futuras (Backlog)
-- 🔔 Notificações (toast)
-- 🌙 Tema claro/escuro
-- 🔍 Barra de busca por título
-- 📊 Dashboard com contagem de status
-- 🏷️ Tags e categorias para tarefas
+- 🔔 Notificações (toast) <br>
+- 🌙 Tema claro/escuro <br>
+- 🔍 Barra de busca por título <br>
+- 📊 Dashboard com contagem de status <br>
+- 🏷️ Tags e categorias para tarefas <br>
 
 ## 💡 Aprendizados
 ✔️ Uso avançado de React com TypeScript
