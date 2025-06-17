@@ -83,18 +83,18 @@ src/
 ```
 
 ## 🏗️ Melhorias Futuras (Backlog)
-- 🔔 Notificações (toast) <br>
-- 🌙 Tema claro/escuro <br>
-- 🔍 Barra de busca por título <br>
-- 📊 Dashboard com contagem de status <br>
-- 🏷️ Tags e categorias para tarefas <br>
+- 🔔 Notificações (toast) 
+- 🌙 Tema claro/escuro 
+- 🔍 Barra de busca por título 
+- 📊 Dashboard com contagem de status 
+- 🏷️ Tags e categorias para tarefas 
 
 ## 💡 Aprendizados
-✔️ Uso avançado de React com TypeScript
-✔️ Componentização limpa e eficiente
-✔️ Consumo de API REST
-✔️ Uso de TailwindCSS para estilização rápida e responsiva
-✔️ Gerenciamento de estado leve
+✔️ Uso avançado de React com TypeScript <br>
+✔️ Componentização limpa e eficiente <br>
+✔️ Consumo de API REST <br>
+✔️ Uso de TailwindCSS para estilização rápida e responsiva <br>
+✔️ Gerenciamento de estado leve <br>
 
 ## 🧠 Autor
 Desenvolvido com 💙 por **Taty**
